@@ -23,7 +23,7 @@ https://dragonball-api.com/api/characters
 
 🔗 Deploy
 
-
+https://appdragonball.netlify.app
 
 🎥 Video demostrativo
 
